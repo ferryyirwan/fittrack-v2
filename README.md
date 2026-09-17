@@ -12,25 +12,25 @@ Here are some screenshots of FitTrack V2, showcasing the main features of the ap
 
 | Splash Screen | Home Screen |
 |:---:|:---:|
-| <img src="assets/splash_screen.png" width="250"> | <img src="assets/home1.png" width="250"> |
+| <img src="assets/images/splash_screen.png" width="250"> | <img src="assets/images/home1.png" width="250"> |
 
 ### 🏋️ Workout
 
 | Exercise List | Exercise Detail |
 |:---:|:---:|
-| <img src="assets/exercise.png" width="250"> | <img src="assets/exercise_detail1.png" width="250"> |
+| <img src="assets/images/exercise.png" width="250"> | <img src="assets/images/exercise_detail1.png" width="250"> |
 
 ### ⚖️ Fitness Tools
 
 | BMI Calculator | Workout Timer |
 |:---:|:---:|
-| <img src="assets/bmi.png" width="250"> | <img src="assets/timer.png" width="250"> |
+| <img src="assets/images/bmi.png" width="250"> | <img src="assets/images/timer.png" width="250"> |
 
 ### 👤 Personalization
 
 | Profile | Workout Schedule |
 |:---:|:---:|
-| <img src="assets/profile1.png" width="250"> | <img src="assets/schedule.png" width="250"> |
+| <img src="assets/images/profile1.png" width="250"> | <img src="assets/images/schedule.png" width="250"> |
 
 ## ✨ Features
 

@@ -6,7 +6,31 @@ The application provides users with workout planning features and fitness-relate
 
 ## 📱 Screenshots
 
-Screenshots of the application will be added here.
+Here are some screenshots of FitTrack V2, showcasing the main features of the application.
+
+### 🚀 Splash Screen & Home
+
+| Splash Screen | Home Screen |
+|:---:|:---:|
+| <img src="assets/splash_screen.png" width="250"> | <img src="assets/home1.png" width="250"> |
+
+### 🏋️ Workout
+
+| Exercise List | Exercise Detail |
+|:---:|:---:|
+| <img src="assets/exercise.png" width="250"> | <img src="assets/exercise_detail1.png" width="250"> |
+
+### ⚖️ Fitness Tools
+
+| BMI Calculator | Workout Timer |
+|:---:|:---:|
+| <img src="assets/bmi.png" width="250"> | <img src="assets/timer.png" width="250"> |
+
+### 👤 Personalization
+
+| Profile | Workout Schedule |
+|:---:|:---:|
+| <img src="assets/profile1.png" width="250"> | <img src="assets/schedule.png" width="250"> |
 
 ## ✨ Features
 

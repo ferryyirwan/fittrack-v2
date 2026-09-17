@@ -47,3 +47,6 @@ app.*.map.json
 # Firebase configuration
 firebase.json
 android/app/google-services.json
+
+# Project report
+FitTrack_V2_Project_Report.md
